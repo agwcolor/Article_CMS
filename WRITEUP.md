@@ -21,4 +21,4 @@ need to specially configure the host server so I don't need the absolute control
 
 ### Assess app changes that would change your decision.
 
-If this app grew to be very popular for some reason and started to require more memory usage (> 14GB per instance) I would need to move to VMs. I might also consider other available technology stacks that I might need more granular control over configuring. A larger more complex app would need more development testing and may require a smooth migration to the cloud using a custom image.
+If this app grew to be very popular for some reason and started to require more memory usage (> 14GB per instance), I would need to move to VMs. I might also consider other available technology stacks that I might need more granular control over configuring. A larger more complex app would need more local development and testing and may eventually require a smooth migration to the cloud using a custom image.
